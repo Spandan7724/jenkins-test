@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-test-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js project to test Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["jenkins", "ci", "test"],
+  "author": "",
+  "license": "ISC"
+}
